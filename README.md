@@ -115,7 +115,7 @@ Social-Media-Data-Visualization-PowerBI/
 ├── README.md
 │
 ├── pbix/
-│   └── Social_Media_Data_Visualization.pbix   (optional)
+│   └── Social_Media_Data_Visualization.pbix
 │
 ├── screenshots/
 │   ├── 01_KPI_Overview.png
